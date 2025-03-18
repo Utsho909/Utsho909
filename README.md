@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I'm a backend web developer with a deep-seated int
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
+- [Email](mailto:utsho909@gmail.com)
+- [Instagram](https://instagram.com/iblameutsho)
 
 *“Mathematics is the language in which God has written the universe.”* – Galileo Galilei
