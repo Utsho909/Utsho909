@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a backend web developer with a deep-seated int
 
 ## 📈 GitHub Stats
 
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utsho909&show_icons=true&theme=radical)
 
 ## 🧠 Latest Projects
 
