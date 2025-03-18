@@ -21,9 +21,10 @@ Welcome to my GitHub profile! I'm a backend web developer with a deep-seated int
 
 ## 🧠 Latest Projects
 
-- **AI-Powered Chatbot**: Developed a chatbot using NLP techniques to assist users in navigating complex datasets.
-- **Mathematical Visualization Tool**: Created a web application to visualize complex mathematical functions and their transformations.
-- **E-commerce Backend**: Engineered a robust backend for an e-commerce platform, integrating secure payment gateways and user authentication.
+- **Dress & Dream**: An e-commerce platform offering a seamless shopping experience with secure payment integration and user-friendly navigation.
+- **POS System for Medicine Hub**: Developed a robust point-of-sale system tailored for pharmaceutical retailers, streamlining inventory management and sales tracking.
+- **Butterfly**: A costing project designed to optimize budget allocations and financial planning for small to medium-sized businesses.
+
 
 ## 📫 Let's Connect
 
