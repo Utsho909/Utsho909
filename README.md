@@ -1,5 +1,7 @@
 # Hi there, I'm Rehan Aftab 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Backend+Web+Developer;AI+and+Math+Enthusiast)
+
 Welcome to my GitHub profile! I'm a backend web developer with a deep-seated interest in artificial intelligence and mathematics. I enjoy crafting efficient server-side applications and exploring the realms where code meets complex algorithms.
 
 ## 🔧 Technologies & Tools
@@ -36,10 +38,9 @@ Welcome to my GitHub profile! I'm a backend web developer with a deep-seated int
 - **POS System for Medicine Hub**: Developed a robust point-of-sale system tailored for pharmaceutical retailers, streamlining inventory management and sales tracking.
 - **Butterfly**: A costing project designed to optimize budget allocations and financial planning for small to medium-sized businesses.
 
-
 ## 📫 Let's Connect
 
-- [Email](mailto:utsho909@gmail.com)
-- [Instagram](https://instagram.com/iblameutsho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:utsho909@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iblameutsho)
 
 *“Mathematics is the language in which God has written the universe.”* – Galileo Galilei
