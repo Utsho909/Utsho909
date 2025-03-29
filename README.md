@@ -1,6 +1,6 @@
 # Hi there, I'm Rehan Aftab 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Backend+Web+Developer;AI+and+Math+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Backend+Web+Developer;AI+Enthusiast)
 
 Welcome to my GitHub profile! I'm a backend web developer with a deep-seated interest in artificial intelligence and mathematics. I enjoy crafting efficient server-side applications and exploring the realms where code meets complex algorithms.
 
