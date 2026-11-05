@@ -4,7 +4,7 @@
 
 **REHAN AFTAB**
 
-*Developer · Creator · Independent Thinker*
+*Developer *
 
 Building things with purpose. Exploring what's possible with code.
 
