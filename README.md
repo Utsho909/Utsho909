@@ -41,9 +41,13 @@ Currently exploring:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utsho909&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9" />
+ <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsho909&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Utsho909&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Utsho909&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+
+</div>
 
 </div>
 
