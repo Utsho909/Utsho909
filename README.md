@@ -1,52 +1,58 @@
  <div align="center">
 
-# R V H U N
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:2563EB&height=180&section=header&text=REHAN&fontSize=58&fontColor=FFFFFF&fontAlignY=48&desc=Developer%20%2F%20Creator%20%2F%20Problem%20Solver&descSize=14&descAlignY=72&animation=fadeIn" width="100%" />
 
-**REHAN AFTAB**
+<br/>
 
-*Developer*
+**Building ideas into reality.**
 
-Building things with purpose. Exploring what's possible with code.
+I’m Rehan — a developer who enjoys creating things, exploring technology, and solving problems through code.
 
-[GitHub](https://github.com/Utsho909) · [Email](mailto:utsho909@gmail.com)
+<br/>
+
+<a href="https://github.com/Utsho909">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:utsho909@gmail.com">
+<img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 01 / ABOUT
+### ABOUT
 
-I'm Rehan — a developer interested in building meaningful digital experiences.
+Interested in the intersection of technology, creativity, and problem-solving.
 
-My interests live around backend engineering, artificial intelligence, mathematics, and the intersection of technology and creativity.
+Currently exploring:
 
-I enjoy understanding how things work, experimenting with ideas, and turning concepts into reality.
+`Backend Development` &nbsp; `Artificial Intelligence` &nbsp; `Mathematics`
 
-### 02 / FOCUS
+### TECH & TOOLS
 
-`BACKEND DEVELOPMENT` · `ARTIFICIAL INTELLIGENCE` · `MATHEMATICS` · `PROBLEM SOLVING`
+<div align="left">
 
-### 03 / SELECTED WORK
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,php,cs,git,github,vscode&theme=dark" />
 
-| PROJECT | DESCRIPTION |
-|:--|:--|
-| [Achiva Tech](https://github.com/Utsho909/Achiva-Tech) | Technology-focused web application |
-| [School Management](https://github.com/Utsho909/School-Management) | Academic management system |
-| [PHP Todo List](https://github.com/Utsho909/php-todo-list) | Lightweight task manager |
-| [Expense Tracker](https://github.com/Utsho909/csharp-expense-tracker) | Console-based expense tracker |
+</div>
 
-### 04 / CONNECT
+### GITHUB
 
-**Have an idea? Let's build something.**
+<div align="center">
 
-[GitHub](https://github.com/Utsho909) · [Email](mailto:utsho909@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utsho909&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsho909&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+
+</div>
 
 ---
 
 <div align="center">
 
-`RVHUN®` — MADE OF CURIOSITY.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:312E81&height=2&section=footer" width="100%"/>
 
-*Less noise. More creation.*
+**REHAN** · Designed by curiosity.
 
 </div>
