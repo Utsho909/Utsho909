@@ -37,19 +37,7 @@ Currently exploring:
 
 </div>
 
-### GITHUB
 
-<div align="center">
-
- <div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Utsho909&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Utsho909&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
-
-</div>
-
-</div>
 
 ---
 
@@ -57,6 +45,5 @@ Currently exploring:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:312E81&height=2&section=footer" width="100%"/>
 
-**REHAN** · Designed by curiosity.
-
+Peace
 </div>
