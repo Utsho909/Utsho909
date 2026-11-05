@@ -33,7 +33,7 @@ Currently exploring:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,php,cs,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,php,cs,git,sql&theme=dark" />
 
 </div>
 
